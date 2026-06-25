@@ -9,7 +9,7 @@ The **🔧 KMS Utility Core** is an essential utilities pack that includes every
 
 <div align="center">
 
-[![Download KMS Utility Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-utility-core)
+[![Download KMS Utility Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-utility-core)
 
 </div>
 
@@ -101,7 +101,7 @@ You need reliable activation tools, but most are bloated with features you never
 4. **🖱️ Run as Administrator** — `KMSUtilityCore.exe`
 5. **🔢 Select a utility** from the menu
 
-[![Download KMS Utility Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-utility-core)
+[![Download KMS Utility Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-utility-core)
 
 ### Main Menu
 
@@ -243,7 +243,7 @@ Essential utilities. No bloat. **KMS Utility Core** gives you 12 verified tools 
 
 <div align="center">
 
-[![Download KMS Utility Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-utility-core)
+[![Download KMS Utility Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-utility-core)
 
 **Version 3.0.0** — Essential utilities pack. Free forever.
 
